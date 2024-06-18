@@ -5,6 +5,10 @@
 ```python
 import os
 
-os.system('cls)
+os.system('cls')
 print('Hello World!')
 ```
+
+- [X] Update ticket status
+- [ ] Deploy application
+- [ ] Close Ticket
